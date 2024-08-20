@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*; 
 //input 2d array, search for x and print their indices
 public class Arrays{
      public static void main (String args[]){
