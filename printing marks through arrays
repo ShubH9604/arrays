@@ -2,6 +2,7 @@ import java.util.*;
 //printing marks
 public class Arrays{
      public static void main (String args[]){
+
           int[] marks = new int[3];    
           marks[0] = 99;
           marks[1] = 98;
