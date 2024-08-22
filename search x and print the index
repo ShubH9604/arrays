@@ -1,5 +1,5 @@
 import java.util.*;
-//search x and print the index 
+//search x and print the index    
 public class Arrays{
      public static void main (String args[]){
           Scanner sc = new Scanner(System.in);
