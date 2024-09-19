@@ -6,7 +6,7 @@ public class Arrays{
           int rows = sc.nextInt();
           int cols = sc.nextInt();
             
-          int[][] numbers = new int[rows][cols];
+          int[][] numbers = new int[rows][cols]; 
          
           for (int i=0; i<rows; i++){
               
