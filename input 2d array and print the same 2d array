@@ -2,7 +2,7 @@ import java.util.*;
 // input 2d array and print the same 2d array
 public class Arrays{ 
      public static void main (String args[]){
-          Scanner sc = new Scanner(System.in);
+          Scanner sc = new Scanner(System.in); 
           int rows = sc.nextInt(); 
           int cols = sc.nextInt();
           
